@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_Best methods of debugging a code problem_ __go for a walk__ *literally anything other than staring at your screen* **then, stare at your screen endlessly to solve it**
